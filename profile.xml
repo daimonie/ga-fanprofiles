@@ -364,30 +364,30 @@
         <TemperatureLimitValueOfFanOff>0</TemperatureLimitValueOfFanOff>
         <TemperatureLimitValueOfFanStart>20</TemperatureLimitValueOfFanStart>
         <TemperatureLimitValueOfFanFullSpeed>65</TemperatureLimitValueOfFanFullSpeed>
-        <StartPWM>51</StartPWM>
-        <Slope>2</Slope>
+        <StartPWM>102</StartPWM>
+        <Slope>1.94</Slope>
         <DeltaTemperature>1</DeltaTemperature>
         <TargetZoneBoundary>0</TargetZoneBoundary>
         <FanSpeed>0</FanSpeed>
       </FanConfig>
       <ExtraVectorConfigs>
         <FanExtraVectorConfig>
-          <StartLimit>30</StartLimit>
-          <Slope>2</Slope>
+          <StartLimit>36</StartLimit>
+          <Slope>2.5</Slope>
           <TemperatureInputSelection>2</TemperatureInputSelection>
           <RangeSelection>0</RangeSelection>
           <FullLimit>0</FullLimit>
         </FanExtraVectorConfig>
         <FanExtraVectorConfig>
-          <StartLimit>40</StartLimit>
-          <Slope>2</Slope>
+          <StartLimit>52</StartLimit>
+          <Slope>6.38</Slope>
           <TemperatureInputSelection>2</TemperatureInputSelection>
           <RangeSelection>0</RangeSelection>
           <FullLimit>0</FullLimit>
         </FanExtraVectorConfig>
         <FanExtraVectorConfig>
-          <StartLimit>50</StartLimit>
-          <Slope>13</Slope>
+          <StartLimit>60</StartLimit>
+          <Slope>6.2</Slope>
           <TemperatureInputSelection>2</TemperatureInputSelection>
           <RangeSelection>0</RangeSelection>
           <FullLimit>100</FullLimit>
@@ -520,32 +520,32 @@
       <TachometerClosedLoopMode>false</TachometerClosedLoopMode>
       <FanConfig>
         <TemperatureLimitValueOfFanOff>0</TemperatureLimitValueOfFanOff>
-        <TemperatureLimitValueOfFanStart>20</TemperatureLimitValueOfFanStart>
-        <TemperatureLimitValueOfFanFullSpeed>70</TemperatureLimitValueOfFanFullSpeed>
-        <StartPWM>76</StartPWM>
-        <Slope>0.25</Slope>
+        <TemperatureLimitValueOfFanStart>30</TemperatureLimitValueOfFanStart>
+        <TemperatureLimitValueOfFanFullSpeed>66</TemperatureLimitValueOfFanFullSpeed>
+        <StartPWM>51</StartPWM>
+        <Slope>5.1</Slope>
         <DeltaTemperature>1</DeltaTemperature>
         <TargetZoneBoundary>0</TargetZoneBoundary>
         <FanSpeed>0</FanSpeed>
       </FanConfig>
       <ExtraVectorConfigs>
         <FanExtraVectorConfig>
-          <StartLimit>44</StartLimit>
-          <Slope>2.5</Slope>
+          <StartLimit>40</StartLimit>
+          <Slope>5.1</Slope>
           <TemperatureInputSelection>0</TemperatureInputSelection>
           <RangeSelection>0</RangeSelection>
           <FullLimit>0</FullLimit>
         </FanExtraVectorConfig>
         <FanExtraVectorConfig>
-          <StartLimit>56</StartLimit>
-          <Slope>6.13</Slope>
+          <StartLimit>50</StartLimit>
+          <Slope>6.38</Slope>
           <TemperatureInputSelection>0</TemperatureInputSelection>
           <RangeSelection>0</RangeSelection>
           <FullLimit>0</FullLimit>
         </FanExtraVectorConfig>
         <FanExtraVectorConfig>
-          <StartLimit>64</StartLimit>
-          <Slope>15.67</Slope>
+          <StartLimit>58</StartLimit>
+          <Slope>6.38</Slope>
           <TemperatureInputSelection>0</TemperatureInputSelection>
           <RangeSelection>0</RangeSelection>
           <FullLimit>100</FullLimit>
